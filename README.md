@@ -2,7 +2,7 @@
 
 
 ## 📌 Problem Statement
-**Q2) Matchmaking for the users**
+** Matchmaking for the users**
 
 Many Player vs Player (PvP) games require pairing players fairly. As a newly hired Data Scientist, the goal is to design a matchmaking algorithm that goes beyond random pairing and ensures balanced, engaging matches.  
 
