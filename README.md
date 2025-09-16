@@ -1,8 +1,5 @@
 # PlaySimple Games – Assignment Submission
 
-**Submitted by:** Hemanth Kumar NVS  
-**USN:** 1MS22AD027  
-
 ---
 
 ## 📌 Problem Statement
