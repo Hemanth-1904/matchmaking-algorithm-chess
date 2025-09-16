@@ -1,6 +1,5 @@
 # PlaySimple Games – Assignment Submission
 
----
 
 ## 📌 Problem Statement
 **Q2) Matchmaking for the users**
@@ -66,6 +65,3 @@ The success of the new algorithm is evaluated through:
 - Better player satisfaction and engagement.  
 - Improved monetization without harming player experience.  
 
----
-
-## 📄 File Structure
